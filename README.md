@@ -11,7 +11,9 @@ e) Parameter Counter Period nastavimo na 100 in s tem še dodatno znižamo takt 
 f) V PWM Generation Channel nastavite Pulse (16 bits value) na 50. Kaj pomeni ta parameter? Širina signala (duty cycle).
 
 Poiščite prenastavljeni parameter Pulse (ki je 50) v vaši kodi in prepišite ukaz, ki ga je generiral CubeMX: sConfigOC.Pulse = 50;.
+
 V kodi spremenite vrednost širine pulza na 25 %. Zapišite popravljeni ukaz v kodi: sConfigOC.Pulse = 25;. 
+
 Zapišite kaj počnejo ukazi v  1. 2. in 3. vrstici (v user code begin 3):
 1. Nastavi spremenljivko duty cycle.
 2. Spremeljivki prišteje 10.
