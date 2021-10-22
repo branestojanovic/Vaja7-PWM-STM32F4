@@ -1,6 +1,7 @@
 # Vaja7-PWM-STM32F4
 
 Vprašanja in odgovori:
+
 b) Kateri pin ste omogočili? PE9. Kaj se izpiše poleg pina? TIM_CH1.
 
 d) Koliko je vrednost Perscaler (namig; delitelj)? 16.
