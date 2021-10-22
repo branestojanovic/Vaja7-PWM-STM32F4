@@ -20,3 +20,4 @@ Zapišite kaj počnejo ukazi v  1. 2. in 3. vrstici (v user code begin 3):
 3. Če ima spremenljivka duty cycle vrednost ki je večja od 90, nastavi spremenljivko na 10.
 
 Komentar: Sprva so bile težave z nastavljanjem osiloskopa, ker nam ni zaznal signala. Ko sva priključke zvezala na drugo stran mikrokontrollerja nam je pa delovalo. Na sliki nastavitev je črta ravna predvsem zaradi tega. Vse ostalo je delovalo.
+Avtorja: Brane Stojanović in Bojan Stojanović
